@@ -296,3 +296,4 @@ strong{font-weight:500;color:var(--chu)}
   .duong{padding-top:18px;padding-bottom:18px}
 }
 @media (prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
+.chan-dia{color:var(--phu);line-height:1.5}
